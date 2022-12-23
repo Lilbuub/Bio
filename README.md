@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=lilbuub&label=Profile+Views&style=flat&color=C13584)
 
 
-## Hello there! 👌
+## Olá Pessoal! 😊
 
 Meu nome é Thais Giovanna, estou cursando Analise de Desenvolvimento de Sistemas.
 
