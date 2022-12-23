@@ -12,7 +12,7 @@ Meu nome é Thais Giovanna, estou cursando Analise de Desenvolvimento de Sistema
 
 ---
 **Sobre mim:**
-- 👨🏻‍💻 Atualmente estudando GitHub e JavaScript, em estagio inicial.
--  Mdelagem de Software
+- 📚 Atualmente estudando GitHub e JavaScript, em estagio inicial.
+- 📙 Modelagem de Software
 
 ---
