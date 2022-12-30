@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=lilbuub&label=Profile+Views&style=flat&color=C13584)
 
 
-## Olá Pessoal! 😊
+## Olá Pessoal! ✨😊✨
 
 Meu nome é Thais Giovanna, estou cursando Analise de Desenvolvimento de Sistemas.
 
@@ -16,5 +16,6 @@ Meu nome é Thais Giovanna, estou cursando Analise de Desenvolvimento de Sistema
 - 📚 Atualmente estudando GitHub e JavaScript, em estagio inicial.
 - 📙 Modelagem de Software
 - ✔️ Tenho 26 anos
+
 
 ---
