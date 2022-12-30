@@ -8,7 +8,7 @@
 
 ## Olá Pessoal! ✨😊✨
 
-Meu nome é Thais Giovanna, estou cursando Analise de Desenvolvimento de Sistemas.
+Meu nome é Thais Giovanna, estou cursando Análise de Desenvolvimento de Sistemas.
 
 ---
 
