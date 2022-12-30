@@ -19,5 +19,7 @@ Meu nome é Thais Giovanna, estou cursando Análise de Desenvolvimento de Sistem
 
 ![](https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif)
 
-
+**Metas Atuais:**
+- Java Script
+- React
 ---
