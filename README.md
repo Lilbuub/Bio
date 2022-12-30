@@ -17,5 +17,7 @@ Meu nome é Thais Giovanna, estou cursando Analise de Desenvolvimento de Sistema
 - 📙 Modelagem de Software
 - ✔️ Tenho 26 anos
 
+![](https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif)
+
 
 ---
